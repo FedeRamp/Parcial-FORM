@@ -1,0 +1,16 @@
+C:\Users\Fede\Documents\GitHub\Parcial-FORM\Parcial\Parcial.frm\bin\Debug\Parcial.frm.exe.config
+C:\Users\Fede\Documents\GitHub\Parcial-FORM\Parcial\Parcial.frm\bin\Debug\Parcial.frm.exe
+C:\Users\Fede\Documents\GitHub\Parcial-FORM\Parcial\Parcial.frm\bin\Debug\Parcial.frm.pdb
+C:\Users\Fede\Documents\GitHub\Parcial-FORM\Parcial\Parcial.frm\bin\Debug\Parcial.Libreria.dll
+C:\Users\Fede\Documents\GitHub\Parcial-FORM\Parcial\Parcial.frm\bin\Debug\Parcial.Libreria.pdb
+C:\Users\Fede\Documents\GitHub\Parcial-FORM\Parcial\Parcial.frm\obj\Debug\Parcial.frm.csprojAssemblyReference.cache
+C:\Users\Fede\Documents\GitHub\Parcial-FORM\Parcial\Parcial.frm\obj\Debug\Parcial.frm.AddAlumnoForm.resources
+C:\Users\Fede\Documents\GitHub\Parcial-FORM\Parcial\Parcial.frm\obj\Debug\Parcial.frm.Form1.resources
+C:\Users\Fede\Documents\GitHub\Parcial-FORM\Parcial\Parcial.frm\obj\Debug\Parcial.frm.Properties.Resources.resources
+C:\Users\Fede\Documents\GitHub\Parcial-FORM\Parcial\Parcial.frm\obj\Debug\Parcial.frm.csproj.GenerateResource.cache
+C:\Users\Fede\Documents\GitHub\Parcial-FORM\Parcial\Parcial.frm\obj\Debug\Parcial.frm.csproj.CoreCompileInputs.cache
+C:\Users\Fede\Documents\GitHub\Parcial-FORM\Parcial\Parcial.frm\obj\Debug\Parcial.frm.csproj.CopyComplete
+C:\Users\Fede\Documents\GitHub\Parcial-FORM\Parcial\Parcial.frm\obj\Debug\Parcial.frm.exe
+C:\Users\Fede\Documents\GitHub\Parcial-FORM\Parcial\Parcial.frm\obj\Debug\Parcial.frm.pdb
+C:\Users\Fede\Documents\GitHub\Parcial-FORM\Parcial\Parcial.frm\obj\Debug\Parcial.frm.Forms.TomarListaForm.resources
+C:\Users\Fede\Documents\GitHub\Parcial-FORM\Parcial\Parcial.frm\obj\Debug\Parcial.frm.Forms.VerListaFecha.resources

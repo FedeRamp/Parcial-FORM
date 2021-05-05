@@ -46,14 +46,44 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Forms\AddAlumnoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddAlumnoForm.Designer.cs">
+      <DependentUpon>AddAlumnoForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\TomarListaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TomarListaForm.Designer.cs">
+      <DependentUpon>TomarListaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\VerListaFecha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\VerListaFecha.Designer.cs">
+      <DependentUpon>VerListaFecha.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\AddAlumnoForm.resx">
+      <DependentUpon>AddAlumnoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TomarListaForm.resx">
+      <DependentUpon>TomarListaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\VerListaFecha.resx">
+      <DependentUpon>VerListaFecha.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -75,6 +105,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Parcial.Libreria\Parcial.Libreria.csproj">
+      <Project>{bc096e34-c7e7-42c7-9d95-6487b77f435e}</Project>
+      <Name>Parcial.Libreria</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
